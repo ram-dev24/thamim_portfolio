@@ -250,7 +250,7 @@ export const Hero: React.FC = () => {
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover object-top filter contrast-[1.02] brightness-[1.01] group-hover:scale-105 transition-transform duration-500"
                   onError={(e) => {
-                    (e.target as HTMLImageElement).src = '/src/assets/images/thamim_portrait_1790965278106.jpg';
+                    (e.target as HTMLImageElement).src = '/src/assets/images/WhatsApp Image 2026-10-02 at 22.21.37.jpg';
                   }}
                 />
 
